@@ -175,8 +175,8 @@ Este proyecto es de código abierto. Siéntete libre de usarlo y modificarlo.
 ## 🙏 Créditos
 
 - **Modelo de IA**: [Meta Llama 3.2 3B](https://huggingface.co/meta-llama/Llama-3.2-3B)
-- **Cartas de Tarot**: [Tu fuente aquí]
-- **Sprites del Gato**: [Tu fuente aquí]
+- **Cartas de Tarot**: (https://deliriumt.itch.io/cat-tarot-cards)
+- **Sprites del Gato**: Generados con Grok
 
 ---
 
