@@ -7,6 +7,10 @@ Una experiencia interactiva de lectura de Tarot impulsada por IA, donde **Miaust
 ![Llama](https://img.shields.io/badge/Llama-3.2--3B-orange)
 ![CUDA](https://img.shields.io/badge/CUDA-12.4-brightgreen)
 
+![Demo intro](Captures/demo_intro.png)
+![Demo Prediction](Captures/demo_prediction.png)
+
+
 ## 🌟 Características
 
 - 🎴 **Lectura de Tarot de 3 cartas**: Pasado, Presente y Futuro
