@@ -62,7 +62,7 @@ source .venv/bin/activate
 
 #### Opción A: Con GPU (CUDA)
 
-**Importante**: Si usas la versión CUDA, necesitas los siguientes DLLs en `.venv\Scripts\` o en tu PATH:
+**Importante**: Si usas la versión CUDA, necesitas los siguientes DLLs en `.venv/Lib/site-packages/llama_cpp/lib` o en tu PATH: 
 
 - `cudart64_12.dll`
 - `cublas64_12.dll`
